@@ -1,0 +1,69 @@
+header {
+  width: 100%;
+  height: 15vh;
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
+  padding-left: 2vh;
+  box-sizing: border-box;
+}
+
+.square {
+  width: 11vh;
+  height: 11vh;
+  background-color: cornflowerblue;
+}
+
+.white {
+  width: 100%;
+  height: 35vh;
+  background-color: white;
+  padding: 32px;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 1vw;
+}
+
+.blue {
+  width: 100%;
+  height: 20vh;
+  background-color: cornflowerblue;
+}
+
+.turquoise {
+  width: 100%;
+  height: 20vh;
+  background-color: turquoise;
+}
+
+.green {
+  width: 100%;
+  height: 20vh;
+  background-color: yellowgreen;
+}
+
+.yellow {
+  width: 100%;
+  height: 20vh;
+  background-color: gold;
+}
+
+.black {
+  position: sticky;
+  float: right;
+  top: 91vh;
+  height: 7vh;
+  width: 7vh;
+  border-radius: 50%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  font-size: 2vw;
+}
