@@ -1,0 +1,31 @@
+header {
+  /* height: 1000px; */
+  height: 220px;
+  background-color: #000001c2;
+}
+
+.container {
+  height: 1000px;
+  display: flex;
+}
+
+.grey {
+  height: 1000px;
+  width: 15%;
+  background-color: grey;
+}
+
+.light-grey {
+  height: 1000px;
+  width: 70%;
+  background-color: lightgray;
+  display: flex;
+  justify-content: column;
+  align-items: flex-end;
+}
+
+.black {
+  height: 100px;
+  width: 100%;
+  background-color: black;
+}
