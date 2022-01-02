@@ -1,0 +1,88 @@
+.margin {
+  margin: 32px 16px;
+}
+
+header {
+  height: 25vh;
+  width: 100%;
+}
+
+.shapes {
+  border: 3px solid black;
+  height: 25vh;
+  width: auto;
+  padding: 8px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.purple {
+  background-color: mediumslateblue;
+  height: 20vh;
+  width: 50px;
+}
+
+.green {
+  background-color: forestgreen;
+  height: 25vh;
+  width: 400px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.light-blue {
+  background-color: lightskyblue;
+  height: 25vh;
+  width: 200px;
+  border-radius: 50%;
+}
+
+main {
+  height: 30vh;
+  width: 100%;
+}
+
+.dashed {
+  border: 3px dashed black;
+  height: 30vh;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.light-yellow {
+  background-color: lemonchiffon;
+  height: 100%;
+  width: 100%;
+  box-shadow: 8px 8px 2px black;
+}
+
+footer {
+  height: 30vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.hello-friends {
+  border: 2px solid lightgray;
+  height: 30vh;
+  width: 500px;
+  box-shadow: 5px 5px 5px grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  color: rebeccapurple;
+  font-size: x-large;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+
+
